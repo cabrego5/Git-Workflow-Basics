@@ -2,7 +2,7 @@
 
 Names : Caleb, Matt, Chase, Agustin
 
-We faced a few of challenges while trying to do this project.
+We faced a few challenges while trying to do this project.
 One challenge was figuring out how to use different git commands.
 Another challenge was figuring out what order to do steps in. 
 We faced some difficulty in learning how to use branches and set an
