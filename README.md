@@ -2,8 +2,9 @@
 
 Names : Caleb, Matt, Chase, Agustin
 
-We faced a couple of challenges while trying to do this project.
-The first challenge was figuring out how to use different git commands.
-We had to do some research and experimentation for this.
-The second challenge was figuring out what order to do steps in.
-This challenge was also resolved by doing a bit more research.
+We faced a few of challenges while trying to do this project.
+One challenge was figuring out how to use different git commands.
+Another challenge was figuring out what order to do steps in. The last
+challenge was learning how to use branches and learning how to set an
+upstream for branches. All of our challenges were resolved by 
+experimentation and researching how git commands are used. 
