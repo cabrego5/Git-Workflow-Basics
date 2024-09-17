@@ -1,0 +1,8 @@
+ 
+Maintenance and support is an crucial step on the Software development process.
+It may look simple though i can insure you its not. Its not just look through
+it and its ready to go, no. The way that this process goes is that we will look for bug within the software and defect that may have slipped away from the testing phase or 
+problem that were from the testing phase. Once identifying these flaw and problems we will
+have to make the changes to the software. From here it time to check for performance optimization where we ensure that the changes and the already existing software stays
+efficient. Then we secure it for no chance of threats to the software. We dock it, set up backup ensuring all the data is being maintain, more test, and then finally your software is done. 
+ 
